@@ -12,8 +12,7 @@ mysql> exit
 * Use a Database
 ```
 Change directory to ~/db/
-sudo mysql -u moneta_user -p
+mysql -u root -p
 mysql> use db_preparat;
 mysql> SOURCE CREATE.sql;
 mysql> SOURCE INSERT.sql;
-```
