@@ -16,4 +16,3 @@ sudo mysql -u moneta_user -p
 mysql> use db_preparat;
 mysql> SOURCE CREATE.sql;
 mysql> SOURCE INSERT.sql;
-```
